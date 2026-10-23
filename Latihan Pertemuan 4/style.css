@@ -3,6 +3,7 @@
   width: 300px;
   padding: 20px;
   border: 5px solid #2563cb;
+  margin: 40px 0;
 }
 
 body {
@@ -22,11 +23,11 @@ h1 {color: #1e3a8a; font-size: 2rem; text-align: center;}
 .info {font-size: 14px; color:#64748b;}
 
 .tombol {
-    display:inline-block;
-    margin-top: 12px;
-    padding: 10px 20px;
-    background-color: #2563cb;
-    color: #ffff;
-    text-decoration: none;
-    border-radius: 6px;
+  display: block;
+  margin-top: 12px;
+  padding: 10px 20px;
+  background-color: #2563cb;
+  color: #ffff;
+  text-decoration: none;
+  border-radius: 6px;
 }
